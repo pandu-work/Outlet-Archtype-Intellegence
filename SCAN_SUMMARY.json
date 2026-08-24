@@ -1,23 +1,24 @@
 {
-  "inputFile": "Outlet_Landmark_Finder_V10_NATIONAL_SPATIAL_INTELLIGENCE.html",
-  "inputBytes": 231974,
-  "inputSize": "226.5 KB",
-  "generatedAt": "2026-08-18T14:28:22.184Z",
+  "inputFile": "Outlet_Landmark_Finder_V13_4_41_MANUAL_DEPTH_BEST_AVAILABLE.html",
+  "inputBytes": 1171951,
+  "inputSize": "1.1 MB",
+  "generatedAt": "2026-08-24T11:36:54.038Z",
   "riskLevel": "high",
   "score": 7,
   "hits": {
-    "fetch": 1,
+    "fetch": 2,
     "xhr": 0,
     "axios": 0,
     "localStorage": 2,
-    "indexedDB": 0,
+    "indexedDB": 2,
     "google": 1,
-    "externalUrls": 20,
-    "inlineBase64": 0,
-    "scriptTags": 4,
-    "styleTags": 1
+    "externalUrls": 23,
+    "inlineBase64": 1,
+    "scriptTags": 33,
+    "styleTags": 40
   },
   "foundTerms": [
+    "NABATI",
     "outlet",
     "latitude",
     "longitude",
@@ -26,6 +27,7 @@
     "googleapis",
     "password",
     "localStorage",
+    "indexedDB",
     "fetch("
   ],
   "externalUrls": [
@@ -33,6 +35,7 @@
     "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js",
     "https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js",
     "https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js",
+    "https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js",
     "https://developers.google.com/maps/documentation/javascript/demo-key",
     "https://esm.sh/pmtiles@4.3.0",
     "https://esm.sh/@mapbox/vector-tile@2.0.4",
@@ -41,17 +44,19 @@
     "https://overturemaps-extras-us-west-2.s3.us-west-2.amazonaws.com/tiles/${OVERTURE_RELEASE}/divisions.pmtiles",
     "https://overturemaps-extras-us-west-2.s3.us-west-2.amazonaws.com/tiles/${OVERTURE_RELEASE}/transportation.pmtiles",
     "https://overturemaps-extras-us-west-2.s3.us-west-2.amazonaws.com/tiles/${OVERTURE_RELEASE}/base.pmtiles",
+    "https://overturemaps-extras-us-west-2.s3.us-west-2.amazonaws.com/tiles/${OVERTURE_RELEASE}/buildings.pmtiles",
     "https://overpass-api.de/api/interpreter",
     "https://overpass.kumi.systems/api/interpreter",
     "https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(lat+",
     "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
     "https://maps.googleapis.com/maps/api/js?key=${encodeURIComponent(key",
+    "https://valhalla1.openstreetmap.de/route?json=",
     "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
     "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
     "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
   ],
   "hasLikelyEmbeddedData": true,
-  "project": "outlet-landmark-finder-v10-national-spatial-intelligence",
+  "project": "outlet-landmark-finder-v13-4-41-manual-depth-best-available",
   "visibility": "private",
   "notes": ""
 }

@@ -18,7 +18,7 @@
 ```bash
 git init
 git add .
-git commit -m "Initial outlet-landmark-finder-v10-national-spatial-intelligence static app"
+git commit -m "Initial outlet-landmark-finder-v13-4-41-manual-depth-best-available static app"
 git branch -M main
 git remote add origin https://github.com/<YOUR_USERNAME>/<YOUR_REPO>.git
 git push -u origin main

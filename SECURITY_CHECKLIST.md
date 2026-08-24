@@ -16,15 +16,15 @@ Use this before pushing to GitHub, especially before making the repo public.
 ## Automatic scan summary
 
 - Risk level: HIGH
-- Input file: Outlet_Landmark_Finder_V10_NATIONAL_SPATIAL_INTELLIGENCE.html
-- Input size: 226.5 KB
-- fetch(): 1
+- Input file: Outlet_Landmark_Finder_V13_4_41_MANUAL_DEPTH_BEST_AVAILABLE.html
+- Input size: 1.1 MB
+- fetch(): 2
 - XMLHttpRequest: 0
 - axios: 0
 - Google/Drive references: 1
-- external URLs: 20
+- external URLs: 23
 - localStorage references: 2
-- IndexedDB references: 0
+- IndexedDB references: 2
 - possible embedded data/business terms: true
 
 ## Manual checks
