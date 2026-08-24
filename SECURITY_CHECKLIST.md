@@ -16,13 +16,13 @@ Use this before pushing to GitHub, especially before making the repo public.
 ## Automatic scan summary
 
 - Risk level: HIGH
-- Input file: Outlet_Landmark_Finder_V13_4_41_MANUAL_DEPTH_BEST_AVAILABLE.html
+- Input file: Outlet_Landmark_Finder_V13_4_42_INLINE_AUDIT_MAP.html
 - Input size: 1.1 MB
 - fetch(): 2
 - XMLHttpRequest: 0
 - axios: 0
 - Google/Drive references: 1
-- external URLs: 23
+- external URLs: 25
 - localStorage references: 2
 - IndexedDB references: 2
 - possible embedded data/business terms: true

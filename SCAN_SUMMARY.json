@@ -1,8 +1,8 @@
 {
-  "inputFile": "Outlet_Landmark_Finder_V13_4_41_MANUAL_DEPTH_BEST_AVAILABLE.html",
-  "inputBytes": 1171951,
+  "inputFile": "Outlet_Landmark_Finder_V13_4_42_INLINE_AUDIT_MAP.html",
+  "inputBytes": 1187208,
   "inputSize": "1.1 MB",
-  "generatedAt": "2026-08-24T11:36:54.038Z",
+  "generatedAt": "2026-08-24T13:19:56.750Z",
   "riskLevel": "high",
   "score": 7,
   "hits": {
@@ -12,10 +12,10 @@
     "localStorage": 2,
     "indexedDB": 2,
     "google": 1,
-    "externalUrls": 23,
+    "externalUrls": 25,
     "inlineBase64": 1,
-    "scriptTags": 33,
-    "styleTags": 40
+    "scriptTags": 34,
+    "styleTags": 41
   },
   "foundTerms": [
     "NABATI",
@@ -53,10 +53,12 @@
     "https://valhalla1.openstreetmap.de/route?json=",
     "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
     "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
-    "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
+    "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png",
+    "https://www.google.com/maps?q=${encodeURIComponent(",
+    "https://www.google.com/maps?q=${lat},${lon}"
   ],
   "hasLikelyEmbeddedData": true,
-  "project": "outlet-landmark-finder-v13-4-41-manual-depth-best-available",
+  "project": "outlet-landmark-finder-v13-4-42-inline-audit-map",
   "visibility": "private",
   "notes": ""
 }
